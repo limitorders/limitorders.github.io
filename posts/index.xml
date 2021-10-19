@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on CheckBook.cash</title>
+    <link>https://www.checkbook.cash/posts/</link>
+    <description>Recent content in Posts on CheckBook.cash</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Oct 2021 07:45:48 +0800</lastBuildDate><atom:link href="https://www.checkbook.cash/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Other Usages of Blockchain Cheques</title>
+      <link>https://www.checkbook.cash/posts/other-usages-of-blockchain-cheques/</link>
+      <pubDate>Mon, 11 Oct 2021 07:45:48 +0800</pubDate>
+      
+      <guid>https://www.checkbook.cash/posts/other-usages-of-blockchain-cheques/</guid>
+      <description>Besides airdropping, blockchain cheques can be useful in several other scenarios. It is not the best solution for these scenarios, but it can be good enough. Here we introduce some of such scenarios. For each one of them, it&amp;rsquo;s possible to develop a dedicated DApp which does a better job than blockchain cheque. However, each DApp needs time and human resource to develop, and time to gain trust of its users.</description>
+    </item>
+    
+    <item>
+      <title>Hello world from blockchain cheques</title>
+      <link>https://www.checkbook.cash/posts/hello-world-from-blockchain-cheques/</link>
+      <pubDate>Sun, 10 Oct 2021 08:45:48 +0800</pubDate>
+      
+      <guid>https://www.checkbook.cash/posts/hello-world-from-blockchain-cheques/</guid>
+      <description>We are the developers of smartBCH side chain. Although our main mission is to develop the full-node client of smartBCH, we also would like to contribute some useful utilities to its ecosystem. So we created the DApp for blockchain cheques and this site.
+Why do we design such a DApp? Because we believe some features of paper checks can be borrowed to enrich the methods for airdropping. First of all, it is a Notification Center of airdrops.</description>
+    </item>
+    
+  </channel>
+</rss>
